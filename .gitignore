@@ -1,5 +1,6 @@
 .DS_Store
 appendix/
+**/data_dir/
 *.log
 **/.ipynb_checkpoints
 **/*checkpoints/

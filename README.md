@@ -10,7 +10,7 @@
 
 <b>아쉬쉬 란잔 저 · 김정인 역</b></br>
 위키북스 · 2022년 02월 16일 출시</br>
-[[github](https://github.com/wikibook/mpytc)] | [[image]()</b> 
+[[github](https://github.com/wikibook/mpytc)] | [[images](https://github.com/wikibook/mpytc/blob/main/9781789614381_ColorImages.pdf)]</b> 
 
 </div>
 
