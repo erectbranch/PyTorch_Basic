@@ -35,7 +35,7 @@
 
   > [PyTorch 모듈](https://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/tutorial.ipynb): torch.nn, torch.optim, torch.utils.data, torch.tensor
 
-  > [CNN 구현하기(MNIST 적용)](hhttps://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/MNIST.ipynb)
+  > [CNN 구현하기(MNIST 적용)](https://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/MNIST.ipynb)
 
 </br>
 
