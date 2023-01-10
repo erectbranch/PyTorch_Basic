@@ -24,6 +24,19 @@
 
   > 모델을 운영 환경에 배포하기, 대규모 모델을 분산 방식으로 훈련시키기, AutoML을 이용해 신경망 아키텍처를 효과적으로 검색하기, fast ai로 모델을 빠르게 프로토타이핑하기 등.
 
+
+</br>
+
+## 🚩 진행한 프로젝트
+
+### 🚪 PyTorch 튜토리얼
+
+- **PyTorch 모듈과 기초 예제**
+
+  > [PyTorch 모듈](https://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/tutorial.ipynb): torch.nn, torch.optim, torch.utils.data, torch.tensor
+
+  > [CNN 구현하기: MNIST](hhttps://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/MNIST.ipynb)
+
 </br>
 
 ## :mag: 목차
