@@ -37,6 +37,10 @@
 
   > [CNN 구현하기(MNIST 적용)](https://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/MNIST.ipynb)
 
+  > [PyTorch model/checkpoint 저장, 불러오기](https://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/save_load.ipynb)
+
+  > [ImageFolder 사용하기](https://github.com/erectbranch/PyTorch_Basic/blob/master/ch01/ImageFolder.ipynb)
+
 </br>
 
 ## :mag: 목차
